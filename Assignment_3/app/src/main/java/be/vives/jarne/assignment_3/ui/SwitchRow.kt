@@ -1,4 +1,4 @@
-package be.vives.jarne.assignment_2.ui
+package be.vives.jarne.assignment_3.ui
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Row

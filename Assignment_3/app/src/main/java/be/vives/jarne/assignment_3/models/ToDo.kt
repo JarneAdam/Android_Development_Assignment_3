@@ -1,4 +1,4 @@
-package be.vives.jarne.assignment_2.models
+package be.vives.jarne.assignment_3.models
 
 import java.util.Date
 

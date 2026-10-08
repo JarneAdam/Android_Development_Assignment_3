@@ -1,4 +1,4 @@
-package be.vives.jarne.assignment_2.ui
+package be.vives.jarne.assignment_3.ui
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.border
@@ -22,9 +22,9 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import be.vives.jarne.assignment_2.R
-import be.vives.jarne.assignment_2.models.ToDo
-import be.vives.jarne.assignment_2.utility.Utility
+import be.vives.jarne.assignment_3.R
+import be.vives.jarne.assignment_3.models.ToDo
+import be.vives.jarne.assignment_3.utility.Utility
 
 @Composable
 fun ToDetailScreen(toDo: ToDo, modifier: Modifier = Modifier) {

@@ -1,4 +1,4 @@
-package be.vives.jarne.assignment_2.ui
+package be.vives.jarne.assignment_3.ui
 
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.material3.DropdownMenuItem
@@ -14,8 +14,8 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
-import be.vives.jarne.assignment_2.models.User
-import be.vives.jarne.assignment_2.utility.Utility
+import be.vives.jarne.assignment_3.models.User
+import be.vives.jarne.assignment_3.utility.Utility
 
 /**
  * Reusable dropdown composable for selecting a User from a list.

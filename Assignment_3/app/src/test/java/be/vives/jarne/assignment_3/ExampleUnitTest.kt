@@ -1,4 +1,4 @@
-package be.vives.jarne.assignment_2
+package be.vives.jarne.assignment_3
 
 import org.junit.Test
 

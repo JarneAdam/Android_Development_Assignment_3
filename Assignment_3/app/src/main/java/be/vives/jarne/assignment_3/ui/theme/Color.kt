@@ -1,4 +1,4 @@
-package be.vives.jarne.assignment_2.ui.theme
+package be.vives.jarne.assignment_3.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

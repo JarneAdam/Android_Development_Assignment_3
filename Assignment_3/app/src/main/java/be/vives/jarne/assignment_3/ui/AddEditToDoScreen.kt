@@ -1,4 +1,4 @@
-package be.vives.jarne.assignment_2.ui
+package be.vives.jarne.assignment_3.ui
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -25,9 +25,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import be.vives.jarne.assignment_2.models.MockupToDo
-import be.vives.jarne.assignment_2.models.ToDo
-import be.vives.jarne.assignment_2.models.User
+import be.vives.jarne.assignment_3.models.MockupToDo
+import be.vives.jarne.assignment_3.models.ToDo
+import be.vives.jarne.assignment_3.models.User
 
 /**
  * Stateful screen component managing ToDo editing state.

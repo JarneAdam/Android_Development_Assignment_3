@@ -1,4 +1,4 @@
-package be.vives.jarne.assignment_2
+package be.vives.jarne.assignment_3
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("be.vives.jarne.assignment_2", appContext.packageName)
+        assertEquals("be.vives.jarne.assignment_3", appContext.packageName)
     }
 }

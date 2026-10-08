@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "be.vives.jarne.assignment_2"
+    namespace = "be.vives.jarne.assignment_3"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "be.vives.jarne.assignment_2"
+        applicationId = "be.vives.jarne.assignment_3"
         minSdk = 36
         targetSdk = 37
         versionCode = 1

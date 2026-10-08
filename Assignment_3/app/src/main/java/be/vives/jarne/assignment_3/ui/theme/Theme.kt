@@ -1,4 +1,4 @@
-package be.vives.jarne.assignment_2.ui.theme
+package be.vives.jarne.assignment_3.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -33,7 +33,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun Assignment_2Theme(
+fun Assignment_3Theme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

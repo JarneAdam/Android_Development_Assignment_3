@@ -1,6 +1,6 @@
-package be.vives.jarne.assignment_2.utility
+package be.vives.jarne.assignment_3.utility
 
-import be.vives.jarne.assignment_2.models.User
+import be.vives.jarne.assignment_3.models.User
 import java.util.Locale
 
 object Utility {
