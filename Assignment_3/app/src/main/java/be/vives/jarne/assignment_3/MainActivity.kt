@@ -8,7 +8,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
 import androidx.compose.ui.Modifier
-import be.vives.jarne.assignment_3.ui.AddEditToDoScreen
+import be.vives.jarne.assignment_3.ui.ToDoListScreen
 import be.vives.jarne.assignment_3.ui.theme.Assignment_3Theme
 
 class MainActivity : ComponentActivity() {
@@ -18,8 +18,8 @@ class MainActivity : ComponentActivity() {
         setContent {
             Assignment_3Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    AddEditToDoScreen(
-                        modifier = Modifier.padding(innerPadding)
+                    ToDoListScreen(
+                        modifier = Modifier.padding(innerPadding),
                     )
                 }
             }
